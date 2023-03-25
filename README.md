@@ -2,7 +2,6 @@
 - 🏗️ Im a fivem mlo dev 
 - 🌱 Years of mapping ... 2.5 years (2022)
 - 💞️ I’m looking to collaborate on ... something amazing 
--
 
 <!---
 markbucko12341/markbucko12341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
